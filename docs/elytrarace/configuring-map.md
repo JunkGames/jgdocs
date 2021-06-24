@@ -11,12 +11,15 @@
 ### マップ作成 (仕組み等)
 
 ![](https://user-images.githubusercontent.com/19150229/123234491-f23c4e00-d515-11eb-9351-d76725572278.png)
+
 上の画像のような金の枠を作るとプレイヤーの速度が2倍になるリングを作れます。
 
 ![](https://user-images.githubusercontent.com/19150229/123234664-17c95780-d516-11eb-93d2-95c6e269fb19.png)
+
 ダイヤの枠を作るとプレイヤーの速度が3倍になるリングを作れます。
 
 ![](https://user-images.githubusercontent.com/19150229/123234793-39c2da00-d516-11eb-9f4b-8f42f7373662.png)
+
 エメラルドの枠を作ると特定のアイテムがもらえるリングが作れます。
 
 それぞれのリングは
@@ -25,12 +28,14 @@
 - 斜めではない
 の条件が揃うと動きます
 
-たとえば
+たとえば、このような枠も動きます
+
 ![](https://user-images.githubusercontent.com/19150229/123235352-beadf380-d516-11eb-9392-d709e4027fbe.png)
-このような枠も動きます
 
 ただしこのようなものは動きません
+
 ![](https://user-images.githubusercontent.com/19150229/123235591-fa48bd80-d516-11eb-9d2e-f4f331f55cbd.png)
+
 
 ### マップデータ作成
 - ロビーをまだ設定していない場合は`/er setlobby`でロビーの位置を設定する(ロビーのワールドも一緒に設定される)
