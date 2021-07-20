@@ -3,3 +3,6 @@
   * [マップの設定方法](/elytrarace/configuring-map)
   * [デイリーランキング](/elytrarace/daily-ranking)
 * [Tree Chopper](/treechopper/)
+  * [マップの設定方法](/treechopper/configuring-map)
+  * [ゲーム設定](/treechopper/game-settings)
+  * [デバッグコマンド](/treechopper/debug-commands)
