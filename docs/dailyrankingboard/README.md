@@ -1,7 +1,5 @@
 # DailyRankingBoard (デイリーランキング)
 
-- [初期設定](/dailyrankingboard/configure)
-
 ## 注意事項
 - reloadしちゃダメ！！！！！
 
