@@ -1,5 +1,6 @@
 * [Home](/)
 * [Daily Ranking](/dailyrankingboard/)
+  * [Skript](/dailyrankingboard/skript)
 * [Elytra Race](/elytrarace/)
   * [マップの設定方法](/elytrarace/configuring-map)
   * [デイリーランキング](/elytrarace/daily-ranking)
