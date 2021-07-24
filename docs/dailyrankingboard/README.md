@@ -1,5 +1,7 @@
 # DailyRankingBoard (デイリーランキング)
 
+- [Skript](/dailyrankingboard/skript)
+
 ## 注意事項
 - reloadしちゃダメ！！！！！
 
