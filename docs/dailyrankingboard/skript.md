@@ -1,6 +1,7 @@
 # Skript
 
 [ダウンロード: Skriptからデイリーランキングを操作できる関数類](https://cdn.discordapp.com/attachments/842413942834987039/868446935248416778/dailyranking.sk)
+
 [ダウンロード: ↑のテストコマンド類](https://cdn.discordapp.com/attachments/842413942834987039/868448214100094986/testcommand.sk)
 
 - `creategame(id, ゲーム名)` - ゲームを作成する
