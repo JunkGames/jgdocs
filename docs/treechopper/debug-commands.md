@@ -11,3 +11,5 @@
 - `/treechopper debug map <マップ> snapshots restore` - エリア内のすべてのブロックを復元
 - `/treechopper debug map <マップ> snapshots clear` - 保存したブロックを削除 (ゲーム中に実行するとゲーム終了後にマップが復元されなくなります)
 - `/treechopper debug map <マップ> snapshots size` - 保存したブロックのサイズを表示
+- `/treechopper debug nothing to see here so please stop doing this PLEASE STOP DOING THIS OR I WILL ENABLE TRASH SKILLS` - 没スキルを有効化
+- `/treechopper debug nothing to see here so please stop doing this PLEASE STOP DOING THIS OR I WILL DISABLE TRASH SKILLS` - 没スキルを無効化
