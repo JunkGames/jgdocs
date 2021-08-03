@@ -1,1 +1,1 @@
-# docs.acrylicstyle.xyz
+# jgdocs.acrylicstyle.xyz
