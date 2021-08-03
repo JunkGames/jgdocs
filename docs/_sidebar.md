@@ -3,7 +3,7 @@
   * [Skript](/dailyrankingboard/skript)
 * [Elytra Race](/elytrarace/)
   * [マップの設定方法](/elytrarace/configuring-map)
-  * [デイリーランキング](/elytrarace/daily-ranking)
+  * [アイテム](/elytrarace/items)
 * [Tree Chopper](/treechopper/)
   * [マップの設定方法](/treechopper/configuring-map)
   * [ゲーム設定](/treechopper/game-settings)
