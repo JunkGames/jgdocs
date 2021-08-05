@@ -1,7 +1,7 @@
 # マップの設定方法
 
 ## 必須条件
-- 誰かに頼んで`treechopper.admin`の権限をゲットする
+- 誰かに頼んで`treechopper.admin` or `treechopper.admin.map`の権限をゲットする
 - マップ
 - ロビーとプレイするマップのワールドを同じにしないこと
 - ただし同じワールドに複数のマップを設けるのはOK
@@ -27,4 +27,4 @@
 
 ## マップのテスト
 - `/treechopper map <マップ> join <プレイヤー...>`で1人以上のプレイヤーを指定して、`/treechopper map <マップ> start`でカウントダウンなしで開始できます。
-- `/treechopper debug resetall`で全員をゲームから退出させることが可能
+- (権限が`treechopper.admin.map`だけでは使用不可) `/treechopper debug resetall`で全員をゲームから退出させることが可能
