@@ -1,4 +1,4 @@
-# Elytra Race (エリトラレース)
+# Elytra Race (エリトラレース) (Kotlin)
 
 * [マップの設定方法](/elytrarace/configuring-map)
 * [アイテム](/elytrarace/items)

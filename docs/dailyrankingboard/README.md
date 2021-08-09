@@ -1,4 +1,4 @@
-# DailyRankingBoard (デイリーランキング)
+# DailyRankingBoard (デイリーランキング) (Kotlin)
 
 - [Skript](/dailyrankingboard/skript)
 
